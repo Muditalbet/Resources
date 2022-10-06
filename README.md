@@ -4,3 +4,7 @@
 ## SEO
 
 * [SERPOSCOPE](https://serposcope.serphacker.com/en/)
+
+## Important GitHub Repositories
+
+* [Programming books](https://github.com/EbookFoundation/free-programming-books)
