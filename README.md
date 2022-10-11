@@ -10,7 +10,6 @@
 # Self-help books
 
 * [Obstacle is the way](https://icrrd.com/media/16-05-2021-051456The-Obstacle-Is-the-Way.pdf)
-* [The art of negotiation](https://drive.google.com/file/d/19dhFDW8h74nN0WAOUGtYX1aljm-iCSyP/view?usp=sharing)
 
 ## Important GitHub Repositories
 
