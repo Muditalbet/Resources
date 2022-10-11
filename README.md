@@ -16,3 +16,7 @@
 
 * [Programming books](https://github.com/EbookFoundation/free-programming-books)
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+
+## Useful youtube playlists
+* [Web Development](https://www.youtube.com/playlist?list=PLjPgtJ3LseGP__GVFF35QpTO0kJ_dlI_-)
