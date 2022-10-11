@@ -4,3 +4,5 @@
 ## SEO
 
 * [SERPOSCOPE](https://serposcope.serphacker.com/en/)
+* [Google Trends](https://trends.google.com/)
+* [Cloudflare](https://www.cloudflare.com/)
