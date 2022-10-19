@@ -20,3 +20,6 @@
 
 ## Useful youtube playlists
 * [Web Development](https://www.youtube.com/playlist?list=PLjPgtJ3LseGP__GVFF35QpTO0kJ_dlI_-)
+
+## Video editing
+* [video tutorials](https://www.youtube.com/c/Storysium)
