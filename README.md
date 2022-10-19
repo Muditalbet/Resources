@@ -24,3 +24,4 @@
 ## Video editing
 * [video tutorials](https://www.youtube.com/c/Storysium)
 * [asset resources](https://mixkit.co/)
+* [color grading](https://www.youtube.com/c/PiXimperfect)
