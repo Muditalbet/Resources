@@ -23,3 +23,4 @@
 
 ## Video editing
 * [video tutorials](https://www.youtube.com/c/Storysium)
+* [asset resources](https://mixkit.co/)
