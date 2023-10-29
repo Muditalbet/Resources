@@ -12,6 +12,7 @@
 * [Obstacle is the way](https://icrrd.com/media/16-05-2021-051456The-Obstacle-Is-the-Way.pdf)
 * [The art of negotiation](https://drive.google.com/file/d/19dhFDW8h74nN0WAOUGtYX1aljm-iCSyP/view?usp=sharing)
 * [Atomic Habits](https://docs.google.com/viewer?a=v&pid=sites&srcid=cXdpa2xhYnMubmV0fGZpbGVzfGd4OjcxYjNjMGZmZmUyYjcwZWI)
+* [Think and grow rich](https://drive.google.com/file/d/0B7uzwK2BiCCrdENEVTZ1UGJ1c1k/view?resourcekey=0-iCNd87lSzNX9FocT_C88DQ)
 
 ## Important GitHub Repositories
 
