@@ -14,6 +14,7 @@
 * [Atomic Habits](https://docs.google.com/viewer?a=v&pid=sites&srcid=cXdpa2xhYnMubmV0fGZpbGVzfGd4OjcxYjNjMGZmZmUyYjcwZWI)
 * [Think and grow rich](https://drive.google.com/file/d/0B7uzwK2BiCCrdENEVTZ1UGJ1c1k/view?resourcekey=0-iCNd87lSzNX9FocT_C88DQ)
 * [How to win friends and influence people](https://www.rfpmm.org/pdf/how-to-win-friends-and-influence-people.pdf)
+* [Thinking, Fast and slow](http://dspace.vnbrims.org:13000/jspui/bitstream/123456789/2224/1/Daniel-Kahneman-Thinking-Fast-and-Slow-.pdf)
 
 ## Important GitHub Repositories
 
